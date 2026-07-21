@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Cheesecake Corp MD DB",
   description: "Database of Cheesecake Corp's MDs",
-  base: "/docs/",
+  base: "/old/docs/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
