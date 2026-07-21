@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "run-p type-check build-only docs:build && shx mkdir -p dist/old/docs && shx cp -r src/markdown/.vitepress/dist/* dist/old/docs/",
+    "build": "run-p type-check build-only docs:build && shx mkdir -p dist/old/docs && shx cp -r src/markdown/.vitepress/dist/* dist/old/docs/ && ls -R dist/old/docs",
     "preview": "vite preview",
     "build-only": "vite build",
     "type-check": "vue-tsc --build",
