@@ -25,7 +25,7 @@
 
 ---
 
-## 🇮🇱 Izrael
+##  Izrael
 
 ### 🕍 Vznik státu
 
